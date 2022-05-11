@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://www.saucedemo.com/",
+    "testFiles": "**/login.spec.js",
+    "ignoreTestFiles": "**/examples/",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "chromeWebSecurity": false
+}
